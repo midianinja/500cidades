@@ -15,7 +15,6 @@ diárias são inspiração e referência para a construção de uma nova políti
 1. [Funcionalidades](#Funcionalidades)
 1. [Público Alvo](#público-alvo)
 
-</br>
 
 ## O que é o projeto?
 
