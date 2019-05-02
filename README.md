@@ -12,7 +12,7 @@ diárias são inspiração e referência para a construção de uma nova políti
 ## Conteúdo
 1. [O que é o projeto?](#o-que-é-o-projeto)
 1. [Qual o seu objetivo?](#qual-o-seu-objetivo)
-1. [Funcionalidades](#Funcionalidades)
+1. [Funcionalidades](#funcionalidades)
 1. [Público Alvo](#público-alvo)
 
 
